@@ -5,7 +5,7 @@
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus)
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
 
-**Win SD launcher** is a *Windows OS App (.EXE)* which simplify the launching task of the AUTOMATIC1111 project locally.
+**Win SD launcher** is a *Windows OS App (.EXE)* that simplifies the launching task of the AUTOMATIC1111 project locally.
 
 <div align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/WinSDlauncher_App_02_out.jpg" width="30%" height="30%">
