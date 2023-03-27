@@ -19,7 +19,7 @@ Run this App as Administrator, if you forgot to do this never mind close Windows
 ## Requirements
 AUTOMATIC1111 project installation: [Read full instructions here](https://ambrosinus.altervista.org/blog/ai-as-rendering-eng-sd-controlnet-locally/#part1)
 <br>
-ADD these strings to **"webui-user.bat"** (or replace yours with these totally):
+Add these strings to **"webui-user.bat"** (or replace yours with these totally):
 ```
 @echo off
 set PYTHON=
