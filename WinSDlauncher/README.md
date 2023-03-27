@@ -15,6 +15,10 @@
 This tool allows you to set (only once from the first start) the path of the folder where you installed Stable Diffusion (and related expansions such as ControlNET) on your machine. Then let's launch Stable Diffusion locally and close the process.
 Run this App as Administrator, if you forgot to do this never mind close Windows Terminal and then the App.<br>
 *It will be restarted automatically as Administrator mode.*
+<br>
+
+Video demo [click here](https://youtu.be/E37TKR2qKT4)
+<br>
 
 ## Requirements
 AUTOMATIC1111 project installation: [Read full instructions here](https://ambrosinus.altervista.org/blog/ai-as-rendering-eng-sd-controlnet-locally/#part1)
