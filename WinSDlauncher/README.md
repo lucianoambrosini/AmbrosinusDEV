@@ -19,8 +19,19 @@ Run this App as Administrator, if you forgot to do this never mind close Windows
 ## Requirements
 AUTOMATIC1111 project installation: [Read full instructions here](https://ambrosinus.altervista.org/blog/ai-as-rendering-eng-sd-controlnet-locally/#part1)
 <br>
+ADD this strings to **"webui-user.bat"** (or replace yours with these totally):
+```
+@echo off
+set PYTHON=
+set GIT=
+set VENV_DIR=
+set COMMANDLINE_ARGS=--api --lowvram --theme dark --autolaunch
+git pull
+call webui.bat
+```
+<br>
 <br>
 
 **Enjoy your Design exploration!** 😉
 
-**P.S.:** It is my first APP/Utility for Windows OS but it is functional for its intended purpose.
+**P.S.:** This is my first APP/Utility for Windows OS but it is functional for its intended purpose.
