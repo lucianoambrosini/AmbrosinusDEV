@@ -21,9 +21,9 @@ Video demo [click here](https://youtu.be/E37TKR2qKT4)
 <br>
 
 ## Requirements
-AUTOMATIC1111 project installation: [Read full instructions here](https://ambrosinus.altervista.org/blog/ai-as-rendering-eng-sd-controlnet-locally/#part1)
+**1)** AUTOMATIC1111 project installation: [Read full instructions here](https://ambrosinus.altervista.org/blog/ai-as-rendering-eng-sd-controlnet-locally/#part1)
 <br>
-Add these strings to **"webui-user.bat"** (or replace yours with these totally):
+**2)** Add these strings to **"webui-user.bat"** (or replace yours with these totally):
 ```
 @echo off
 set PYTHON=
