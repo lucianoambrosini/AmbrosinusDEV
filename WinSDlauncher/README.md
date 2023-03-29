@@ -7,7 +7,7 @@
 
 **Win SD launcher** is a *Windows OS App (.EXE)* that simplifies the launching task of the AUTOMATIC1111 project locally.
 <br>
-### Please download this app only from this OFFICIAL source
+### ✔️ Please download this app only from this OFFICIAL source
 
 <div align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/WinSDlauncher_App_02_out.jpg" width="30%" height="30%">
