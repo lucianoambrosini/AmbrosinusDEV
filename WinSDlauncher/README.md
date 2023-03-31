@@ -1,6 +1,6 @@
 # AmbrosinusDEV | Win SD launcher
 
-[![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
+[![GitHub release](https://img.shields.io/badge/release-v1.1.0-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
 [![GitHub release date](https://img.shields.io/badge/last%20release%20date-March_2023-green)](https://bit.ly/Ambrosinus-Toolkit)
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus)
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
@@ -8,9 +8,12 @@
 **Win SD launcher** is a *Windows OS App (.EXE)* that simplifies the launching task of the AUTOMATIC1111 project locally.
 <br>
 ### ✔️ Please download this app only from this OFFICIAL source
+<br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/WinSDlauncher_App_02_out.jpg" width="30%" height="30%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/WinSDlauncher_App_1.png" width="25%" height="25%">
+&nbsp &nbsp
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/WinSDlauncher_App_2.png" width="25%" height="25%">
 </div>
 
 ### Info components
