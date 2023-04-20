@@ -1,6 +1,6 @@
 # AmbrosinusDEV | Win SD launcher
 
-[![GitHub release](https://img.shields.io/badge/release-v1.1.0-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
+[![GitHub release](https://img.shields.io/badge/release-v1.1.1-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
 [![GitHub release date](https://img.shields.io/badge/last%20release%20date-March_2023-green)](https://bit.ly/Ambrosinus-Toolkit)
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus)
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
@@ -11,18 +11,18 @@
 <br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/WinSDlauncher_App_1.png" width="25%" height="25%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/v111_01.png" width="25%" height="25%">
 &nbsp &nbsp
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/WinSDlauncher_App_2.png" width="25%" height="25%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/v111_02.png" width="25%" height="25%">
+&nbsp &nbsp
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/v111_03.png" width="25%" height="25%">
 </div>
 
 ### Info components
-This tool allows you to set (only once from the first start) the path of the folder where you installed Stable Diffusion (and related expansions such as ControlNET) on your machine. Then let's launch Stable Diffusion locally and close the process.
-Run this App as Administrator, if you forgot to do this never mind close Windows Terminal and then the App.<br>
-*It will be restarted automatically as Administrator mode.*
+This tool allows you to set (only once from the first start) the path of the folder where you installed Stable Diffusion (and related expansions such as ControlNET) on your machine. *With v1.1.1 is not required to run the App as a Windows Administrator, simply install your Stable Diffusion from AUTOMATIC1111 in a folder easily accessible - for instance, I have installed it on my Desktop.*
 <br>
 
-Video demo [click here](https://youtu.be/E37TKR2qKT4)
+Video demo [click here](https://youtu.be/EjUSKjRKKlI)
 <br>
 
 ## Requirements
