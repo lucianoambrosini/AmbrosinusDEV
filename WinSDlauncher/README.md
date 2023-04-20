@@ -22,7 +22,7 @@
 This tool allows you to set (only once from the first start) the path of the folder where you installed Stable Diffusion (and related expansions such as ControlNET) on your machine. *With v1.1.1 is not required to run the App as a Windows Administrator, simply install your Stable Diffusion from AUTOMATIC1111 in a folder easily accessible - for instance, I have installed it on my Desktop.*
 <br>
 
-Video demo [click here](https://youtu.be/EjUSKjRKKlI)
+**Video demo [click here](https://youtu.be/EjUSKjRKKlI)**
 <br>
 
 ## Requirements
