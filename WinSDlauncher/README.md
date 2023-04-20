@@ -5,7 +5,7 @@
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus)
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
 
-**Win SD launcher** is a *Windows OS App (.EXE)* that simplifies the launching task of the AUTOMATIC1111 project locally, a wonderful project allows users to run Stable Diffusion and ControlNET locally on their machines. **WinSDlauncher** it makes launching the application quicker and easier (as I said and only for "lazy" people I use it a lot 😉)
+**Win SD launcher** is a *Windows OS App (.EXE)* that simplifies the launching task of the AUTOMATIC1111 project locally, a wonderful project allows users to run Stable Diffusion and ControlNET locally on their machines. **WinSDlauncher** makes launching the application quicker and easier (as I said and only for "lazy" people I use it a lot 😉)
 <br>
 ### ✔️ Please download this app only from this OFFICIAL source
 <br>
