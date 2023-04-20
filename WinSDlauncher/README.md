@@ -1,5 +1,3 @@
-# Soon Available!
-
 # AmbrosinusDEV | Win SD launcher
 
 [![GitHub release](https://img.shields.io/badge/release-v1.1.1-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
