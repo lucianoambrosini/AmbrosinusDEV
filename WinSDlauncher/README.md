@@ -28,7 +28,7 @@ This tool allows you to set (only once from the first start) the path of the fol
 </div>
 <br>
 
-**Video demo [click here](https://youtu.be/EjUSKjRKKlI)**
+**Video demo [click here](https://youtu.be/WwgoDCRqppA)**
 <br>
 
 ## Requirements
