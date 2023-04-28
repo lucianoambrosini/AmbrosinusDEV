@@ -38,7 +38,7 @@ After the release of ControlNET v1.1 (but not fully supported by APIs), I decide
 
 **[How to install SD local with ControlNET v1.0 - Video here](https://youtu.be/FjrzWuE_OPU)**
 
-**[How to install SD local with ControlNET v1.1 - Video Here COMING SOON!]()**
+**How to install SD local with ControlNET v1.1 - Video Here COMING SOON!**
 
 <br>
 <br>
