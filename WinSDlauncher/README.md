@@ -46,3 +46,9 @@ After the release of ControlNET v1.1 (but not fully supported by APIs), I decide
 **Enjoy your Design exploration!** 😉
 
 **P.S.:** This is my first APP/Utility for Windows OS but it is functional for its intended purpose.
+
+<br>
+<br>
+<div align="center">
+<a href="https://www.buymeacoffee.com/Ambrosinus"><img src="https://img.buymeacoffee.com/button-api/?text=Coffee break?&emoji=☕&slug=Ambrosinus&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+</div>
