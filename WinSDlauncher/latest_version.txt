@@ -1,5 +1,5 @@
 MAIN INFO
-WinSDlauncher-Windows OS App latest version is: 1.1.3
+WinSDlauncher-Windows OS App latest version is: 1.1.4
 -
 CHANGELOG
 v1.1.3
