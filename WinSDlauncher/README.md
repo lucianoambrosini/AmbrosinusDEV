@@ -5,7 +5,7 @@
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus)
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
 
-### v1.1.3 declared above is coming to be out!
+### v1.1.3 is out!
 **Win SD launcher** is a *Windows OS App (.EXE)* that simplifies the launching task of the AUTOMATIC1111 project locally, a wonderful project allows users to run Stable Diffusion and ControlNET locally on their machines. **WinSDlauncher** makes launching the application quicker and easier (as I said it is only for "lazy" designers I use it a lot 😉)
 <br>
 ### ✔️ Please download this app only from this OFFICIAL source
@@ -16,13 +16,16 @@
 &nbsp &nbsp
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v112_02.png" width="25%" height="25%">
 <br>
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v112_03.png" width="25%" height="25%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v113_03-0.png" width="25%" height="25%">
 &nbsp &nbsp
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v112_04.png" width="25%" height="25%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v113_03-1.png" width="25%" height="25%">
+<br>
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v113_04.png" width="25%" height="25%">
 </div>
 
 ### Info components
-This tool allows you to set (only once from the first start) the path of the folder where you installed Stable Diffusion (and related expansions such as ControlNET) on your machine. *Since v1.1.1 is not required to run the App as a Windows Administrator, simply install your Stable Diffusion from AUTOMATIC1111 in a folder easily accessible - for instance, I have installed it on my Desktop.* From tab "Settings" is now possible set all the **"webui-user.bat" command arguments** and overwrite/create this bat file in one click! For this reason the **1 -2 -3 sequence is very important**
+This tool allows you to set (only once from the first start) the path of the folder where you installed Stable Diffusion (and related expansions such as ControlNET) on your machine. *Since v1.1.1 is not required to run the App as a Windows Administrator, simply install your Stable Diffusion from AUTOMATIC1111 in a folder easily accessible - for instance, I have installed it on my Desktop.* From tab "Settings" is now possible set all the **"webui-user.bat" command arguments** and overwrite/create this bat file in one click! Now you can read all changes thanks the **Changelog button**, check your version and download the latest one if yours is outdated thanks the **Download button**. Rememnber the **1 -2 -3 sequence is very important**
+<br>
 
 <div align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v112_05.png" width="50%" height="50%">
