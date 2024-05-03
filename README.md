@@ -12,5 +12,5 @@ not only Grasshopper! (or at least I will try 😉 )
 <br>
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/Ambrosinus"><img src="https://img.buymeacoffee.com/button-api/?text=Coffee break?&emoji=☕&slug=Ambrosinus&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/Ambrosinus" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/05/bmc_comp_01.png" alt="Buy Me A Coffee" width="25%" height="25%"></a>
 </div>
