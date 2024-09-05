@@ -16,9 +16,9 @@ The Envi-Meter serves as a tool to gather and analyze environmental data, facili
 <br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/08/Cover_Envi-Meter_article.jpg" width="570%" height="70%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/08/Cover_Envi-Meter_article.jpg" width="70%" height="70%">
 &nbsp &nbsp
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/08/Web_data_viz_01_1.jpg" width="570%" height="70%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/08/Web_data_viz_01_1.jpg" width="70%" height="70%">
 
 </div>
 
@@ -28,9 +28,9 @@ Envi-Meter comes in a sleek, 3D-printed case housing the core sensors and microc
 <br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/08/LA_Envi-Meter_portable_01.jpg" width="70%" height="70%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/08/LA_Envi-Meter_portable_01.jpg" width="50%" height="50%">
 &nbsp &nbsp
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/08/LA_EM_RC-03_1.jpg" width="25%" height="25%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/08/LA_EM_RC-03_1.jpg" width="18%" height="18%">
 </div>
 <br>
 
