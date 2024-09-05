@@ -4,7 +4,7 @@
 [![GitHub release](https://img.shields.io/badge/Firmware-v1.0.1-gold)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
 [![GitHub release date](https://img.shields.io/badge/last%20release%20date-Ago_2024-green)](https://bit.ly/WinSDlauncher)
 [![GitHub support forum](https://img.shields.io/badge/Official_Page-Info-critical)](https://bit.ly/Envi-MeterV1)
-[![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
+[![GitHub release](https://img.shields.io/badge/license-CC_BY_NC_4.0-orange)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <br>
 
