@@ -12,7 +12,7 @@ not only Grasshopper! (or at least I will try 😉 )
 
 ## Envi-Meter v1.0 (IoT device)
 
-**2)** **[Envi-meter v1.0](https://github.com/lucianoambrosini/AmbrosinusDEV/tree/main/Envi-Meter)** is an IoT device for environmental data mining tasks.
+**2)** **[Envi-Meter v1.0](https://github.com/lucianoambrosini/AmbrosinusDEV/tree/main/Envi-Meter)** is an IoT device for environmental data mining tasks.
 
 <br>
 <br>
