@@ -1,7 +1,10 @@
 MAIN INFO
-WinSDlauncher-Windows OS App latest version is: 1.1.3
+WinSDlauncher-Windows OS App latest version is: 1.1.4
 -
 CHANGELOG
+v1.1.4
+-1 is coming!
+
 v1.1.3
 -1 Settings tab has been implemented with other useful command arguments;
 -2 Info tab layout has been enhanced for checking the App version and letting the user download the new version. The latest version will not overwrite or replace the old one. This App can run multiple instances;
