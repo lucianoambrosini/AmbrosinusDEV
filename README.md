@@ -6,9 +6,9 @@ not only Grasshopper! (or at least I will try 😉 )
 
 ## A1111 WebUI Easy Windows EXE Launcher
 
-[![GitHub release](https://img.shields.io/badge/release-v1.1.3-blue)](https://github.com/lucianoambrosini/AmbrosinusDEV/releases/)
-[![GitHub release date](https://img.shields.io/badge/last%20release%20date-May_2023-green)](https://bit.ly/WinSDlauncher)
-[![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus)
+[![GitHub release](https://img.shields.io/badge/release-v1.1.4-blue)](https://github.com/lucianoambrosini/AmbrosinusDEV/releases/tag/v1.1.4-WinSDlauncher) 
+[![GitHub release date](https://img.shields.io/badge/last%20release%20date-Jan_2025-green)](https://bit.ly/WinSDlauncher) 
+[![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus) 
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
 <br>
 
