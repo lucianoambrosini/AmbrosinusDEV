@@ -1,26 +1,18 @@
 # AmbrosinusDEV | Win SD launcher
 
-[![GitHub release](https://img.shields.io/badge/release-v1.1.3-blue)](https://github.com/lucianoambrosini/AmbrosinusDEV/releases/)
-[![GitHub release date](https://img.shields.io/badge/last%20release%20date-May_2023-green)](https://bit.ly/WinSDlauncher)
-[![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus)
+[![GitHub release](https://img.shields.io/badge/release-v1.1.4-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
+[![GitHub release date](https://img.shields.io/badge/last%20release%20date-Jan_2025-green)](https://bit.ly/WinSDlauncher) 
+[![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus) 
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
 
-### v1.1.3 is out!
-**Win SD launcher** is a *Windows OS App (.EXE)* that simplifies the launching task of the AUTOMATIC1111 project locally, a wonderful project allows users to run Stable Diffusion and ControlNET locally on their machines. **WinSDlauncher** makes launching the application quicker and easier (as I said it is only for "lazy" designers I use it a lot 😉)
+### v1.1.4 is out!
+**Win SD launcher** is a *Windows OS App (.EXE)* that simplifies the launching task of the AUTOMATIC1111 project locally, a wonderful project that allows users to run Stable Diffusion and ControlNET locally on their machines. **WinSDlauncher** makes launching the application quicker and easier (as I said it is only for "lazy" designers I use it a lot 😉) and **NOW also set a custom IP port and enable it over your LAN! So, you can launch WebUI client on your server and work through the WebUI or my AmbrosinusToolkit for Grasshopper directly from a remote PC/Laptop. Finally, you can quickly read the metadata embedded in the final generated PNG image (SD GenAI settings)**.
 <br>
 ### ✔️ Please download this app only from this OFFICIAL source
 <br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v112_01.png" width="25%" height="25%">
-&nbsp &nbsp
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v112_02.png" width="25%" height="25%">
-<br>
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v113_03-0.png" width="25%" height="25%">
-&nbsp &nbsp
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v113_03-1.png" width="25%" height="25%">
-<br>
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v113_04.png" width="25%" height="25%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v114_overview.png" width="100%" height="100%">
 </div>
 
 ### Info components
