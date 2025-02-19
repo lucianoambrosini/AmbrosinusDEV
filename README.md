@@ -14,6 +14,12 @@ not only Grasshopper! (or at least I will try 😉 )
 
 **1)** **[Win SD launcher](https://github.com/lucianoambrosini/AmbrosinusDEV/tree/main/WinSDlauncher)** is a *Windows OS App (.EXE)* that simplifies the launching task of the AUTOMATIC1111 project locally.
 <br>
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v114_overview.png" width="70%" height="70%">
+</div>
+
+<br>
 <br>
 
 ## Envi-Meter v1.0 (IoT device)
@@ -26,6 +32,12 @@ not only Grasshopper! (or at least I will try 😉 )
 <br>
 
 **2)** **[Envi-Meter v1.0](https://github.com/lucianoambrosini/AmbrosinusDEV/tree/main/Envi-Meter)** is an IoT device for environmental data mining tasks.
+
+<br>
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/12/Cover_EnviMeter_FlipBook-82_1.jpg" width="70%" height="70%">
+</div>
 
 <br>
 <br>
