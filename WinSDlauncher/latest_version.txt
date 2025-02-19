@@ -3,7 +3,11 @@ WinSDlauncher-Windows OS App latest version is: 1.1.3
 -
 CHANGELOG
 v1.1.4
--1 is coming!
+-1 Fixed minor bugs and improved performance;
+-2 Added "IP/port" tab to add custom port for running StableDiffusion over LAN (add/remove);
+-3 Enabled the possibility to manage Windows Firewall rules (add/remove);
+-4 Read the IPv4 address available on your LAN. This IP address with the custom port allows the user to run SD (A1111) over LAN especially side by side with Ambrosinus Toolkit for Grasshopper);
+-5 Added download version managing from the GitHub release repository;
 
 v1.1.3
 -1 Settings tab has been implemented with other useful command arguments;
