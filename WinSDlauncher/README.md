@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v114_overview.png" width="100%" height="100%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v114_overview-2.png" width="100%" height="100%">
 </div>
 
 ### Info components
