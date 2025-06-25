@@ -48,5 +48,16 @@ not only Grasshopper! (or at least I will try 😉 )
 </div>
 <br>
 
+---
+
+## 📊 Project Stats
+
+![GitHub stars](https://img.shields.io/github/stars/lucianoambrosini/AmbrosinusDEV)
+![GitHub issues](https://img.shields.io/github/issues/lucianoambrosini/AmbrosinusDEV)
+![GitHub forks](https://img.shields.io/github/forks/lucianoambrosini/AmbrosinusDEV)
+![GitHub last commit](https://img.shields.io/github/last-commit/lucianoambrosini/AmbrosinusDEV)
+
+<br>
+<br>
 
 
