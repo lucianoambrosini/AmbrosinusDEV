@@ -25,8 +25,8 @@ not only Grasshopper! (or at least I will try 😉 )
 ## Envi-Meter v1.0 (IoT device)
 
 [![GitHub release](https://img.shields.io/badge/Hardware-v1.0-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
-[![GitHub release](https://img.shields.io/badge/Firmware-v1.0.1-gold)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
-[![GitHub release date](https://img.shields.io/badge/last%20release%20date-Ago_2024-green)](https://bit.ly/WinSDlauncher)
+[![GitHub release](https://img.shields.io/badge/Firmware-v1.0.2-gold)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
+[![GitHub release date](https://img.shields.io/badge/last%20release%20date-Jun_2025-green)](https://bit.ly/WinSDlauncher)
 [![GitHub support forum](https://img.shields.io/badge/Official_Page-Info-critical)](https://bit.ly/Envi-MeterV1)
 [![GitHub release](https://img.shields.io/badge/license-CC_BY_NC_4.0-orange)](https://creativecommons.org/licenses/by-nc/4.0/)
 <br>
