@@ -34,6 +34,13 @@ Envi-Meter comes in a sleek, 3D-printed case housing the core sensors and microc
 </div>
 <br>
 
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/08/EMCover_02.jpg" width="31%" height="31%">
+&nbsp &nbsp
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/08/EMCover_01.jpg" width="40%" height="40%">
+</div>
+<br>
+
 ### Keywords
 - *Environmental data mining*
 - *IoT device*
