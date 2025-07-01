@@ -12,6 +12,7 @@
 The Envi-Meter serves as a tool to gather and analyze environmental data, facilitating a deeper understanding of how environmental factors influence architectural design. Ambrosini's work emphasizes the intersection of technology and design, showcasing how data-driven insights can enhance architectural practices (especially his consultancy services).
 <br>
 ### 📝 Have a look to Official [pamphlet document here](https://bit.ly/Envi-MeterV1)
+### 📋 Have a look to Official [User Guide](https://bit.ly/EnviMeterGuide)) - ITA and ENG
 ### 🎓 To cite this R&D project this is the  [DOI reference: 10.13140/RG.2.2.14758.95043](https://www.researchgate.net/publication/383659420_ENVI-METER_v10_Project_with_ESP32_board_and_Blynkio_for_Environmental_Data_Mining_tasks?channel=doi&linkId=66d5a20ff84dd1716c78fa90&showFulltext=true)
 <br>
 
