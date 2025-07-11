@@ -10,7 +10,7 @@ not only Grasshopper! (or at least I will try 😉 )
 [![GitHub release date](https://img.shields.io/badge/last%20release%20date-Feb_2025-green)](https://bit.ly/WinSDlauncher) 
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus) 
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
-[![Download](https://img.shields.io/badge/Download-v1.1.4-black)](https://github.com/lucianoambrosini/AmbrosinusDEV/releases/download/v1.1.4-WinSDlauncher/NOME_DEL_FILE.zip)
+[![Download](https://img.shields.io/badge/Download-v1.1.4-black)](https://github.com/lucianoambrosini/AmbrosinusDEV/releases/download/v1.1.4-WinSDlauncher/)
 
 <br>
 
