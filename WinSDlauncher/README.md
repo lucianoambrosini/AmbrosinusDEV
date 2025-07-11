@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v114_overview-2.png" width="100%" height="100%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v114_overview-2.png" width="100%" height="500%">
 </div>
 
 ### Info components
@@ -20,7 +20,7 @@ This tool allows you to set (only once from the first start) the path of the fol
 <br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v112_05.png" width="50%" height="50%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v112_05.png" width="50%" height="500%">
 </div>
 <br>
 
