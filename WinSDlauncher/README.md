@@ -4,6 +4,7 @@
 [![GitHub release date](https://img.shields.io/badge/last%20release%20date-Jan_2025-green)](https://bit.ly/WinSDlauncher) 
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus) 
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
+[![Download](https://img.shields.io/badge/Download-v1.1.4-black)](https://github.com/lucianoambrosini/AmbrosinusDEV/releases/tag/v1.1.4-WinSDlauncher)
 
 ### v1.1.4 is out!
 **Win SD launcher** is a *Windows OS App (.EXE)* that simplifies the launching task of the AUTOMATIC1111 project locally, a wonderful project that allows users to run Stable Diffusion and ControlNET locally on their machines. **WinSDlauncher** makes launching the application quicker and easier (as I said it is only for "lazy" designers I use it a lot 😉) and **NOW also set a custom IP port and enable it over your LAN! So, you can launch WebUI client on your server and work through the WebUI or my AmbrosinusToolkit for Grasshopper directly from a remote PC/Laptop. Finally, you can quickly read the metadata embedded in the final generated PNG image (SD GenAI settings)**.
