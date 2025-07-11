@@ -16,7 +16,7 @@ not only Grasshopper! (or at least I will try 😉 )
 <br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v114_overview-2.png" width="70%" height="70%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/v114_overview-2.png" width="70%" height="300%">
 </div>
 
 <br>
@@ -36,7 +36,7 @@ not only Grasshopper! (or at least I will try 😉 )
 <br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/12/Cover_EnviMeter_FlipBook-82_1.jpg" width="70%" height="70%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/12/Cover_EnviMeter_FlipBook-82_1.jpg" width="70%" height="600%">
 </div>
 
 <br>
@@ -44,7 +44,7 @@ not only Grasshopper! (or at least I will try 😉 )
 <br>
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/Ambrosinus" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/05/bmc_comp_01.png" alt="Buy Me A Coffee" width="25%" height="25%"></a>
+<a href="https://www.buymeacoffee.com/Ambrosinus" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/05/bmc_comp_01.png" alt="Buy Me A Coffee" width="25%" height="100%"></a>
 </div>
 <br>
 
