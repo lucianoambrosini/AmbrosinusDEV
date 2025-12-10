@@ -14,7 +14,7 @@ Create mathematically unique, manufacturing-ready snowflake designs with infinit
 
 - **Random Generation Mode** - Generate infinite unique snowflake designs
 - **Mathematically Accurate** - Based on real snowflake formation principles
-- **N-fold Symmetry** - Perfect radial symmetry patterns (4-12 arms)
+- **N-fold Symmetry** - Perfect radial symmetry patterns
 - **Manufacturing Ready** - Outputs optimized for laser cutting and 3D printing
 - **Parametric Control** - Fine-tune thickness and randomization
 - **One-of-a-Kind Designs** - 1.25 quintillion possible combinations
