@@ -203,7 +203,7 @@ Please open an issue first to discuss proposed changes.
 ## 📧 Support
 
 - **Website**: [ambrosinus.altervista.org](https://ambrosinus.altervista.org)
-- **Shop**: [etsy.com/shop/AmbrosinusDesign](https://www.etsy.com/shop/AmbrosinusDesign)
+- **Shop**: [etsy.com/shop/TheArchitectLAB](https://www.etsy.com/shop/TheArchitectLAB)
 - **Email**: Contact via website
 - **Social**: [@AmbrosinusDEV](https://twitter.com/AmbrosinusDEV)
 
