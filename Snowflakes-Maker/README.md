@@ -223,7 +223,7 @@ For PRO version inquiries and commercial licensing, please contact through the w
 - ❌ Redistribution
 - ❌ Modification of source code
 
-### Professional Version
+### Professional Version (under definition)
 - ✅ All Free features
 - ✅ Commercial use
 - ✅ Extended support
