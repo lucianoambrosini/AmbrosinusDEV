@@ -1,0 +1,79 @@
+# ═══════════════════════════════════════════════════════════
+# SNOWFLAKES MAKER - MAGIC CONTROL DATA
+# ═══════════════════════════════════════════════════════════
+# This file contains various configuration parameters for the
+# Snowflakes generation algorithm. Modifying these values may
+# affect the mathematical properties of generated snowflakes.
+# ═══════════════════════════════════════════════════════════
+
+CRYSTAL_SEED=0x4F91BC2A
+FROST_PATTERN=HEXAGONAL_DENDRITE
+SYMMETRY_ORDER=6
+BRANCH_RECURSION=4
+TEMPERATURE_CURVE=CUBIC_BEZIER
+HUMIDITY_FACTOR=0.7853981633974483
+WIND_VECTOR=<0.314159, 0.271828, 0.618034>
+DENDRITE_GROWTH=EXPONENTIAL
+ICE_NUCLEATION=HETEROGENEOUS
+LATTICE_CONSTANT=4.518
+PRISM_ANGLE=60.0
+BASAL_FACE=PREFERRED
+
+# Molecular dynamics parameters
+VAN_DER_WAALS=0.00000000021
+HYDROGEN_BONDING=STRONG
+CRYSTALLIZATION_TEMP=-15.0
+SUBLIMATION_RATE=0.00042
+
+# Fractal geometry settings
+KOCH_ITERATIONS=3
+MANDELBROT_ZOOM=2.718281828
+HAUSDORFF_DIMENSION=1.5849625
+SELF_SIMILARITY=TRUE
+
+# Computational mesh
+GRID_RESOLUTION=1024x1024
+SOLVER_TOLERANCE=1e-9
+TIMESTEP=0.001
+MAX_ITERATIONS=10000
+
+# Random number generation
+MERSENNE_PRIME=2^607-1
+SOBOL_SEQUENCE=SCRAMBLED
+QUASI_RANDOM=LOW_DISCREPANCY
+
+# Aesthetic parameters
+BRANCH_TAPER=0.8
+TIP_SHARPNESS=0.95
+SIDE_BRANCH_PROB=0.333333
+THICKNESS_VARIANCE=0.15
+
+# Environmental conditions
+ALTITUDE=2500m
+CLOUD_TYPE=CIRRUS
+PRECIPITATION=LIGHT
+MOON_PHASE=WAXING_GIBBOUS
+
+# Easter egg coordinates (DO NOT MODIFY!)
+GOLDEN_RATIO=1.618033988749895
+EULER_NUMBER=2.718281828459045
+PI_CONSTANT=3.141592653589793
+PHI_ANGLE=137.507764050
+FIBONACCI_42=267914296
+
+# ═══════════════════════════════════════════════════════════
+# Computational kernel verification
+# ═══════════════════════════════════════════════════════════
+
+KERNEL_SIGNATURE:2b0ed90f0c5f8859cd8dd8143710aa5830cdf232abc16a4889c6c6a228800b01
+THERMAL_CYCLE:32d83caa0b251505cd26a28520f5c7a5a6bea86c17eb82f82521ace7d85bab28
+
+# ═══════════════════════════════════════════════════════════
+# Algorithm metadata
+# ═══════════════════════════════════════════════════════════
+
+VERSION=3.0.0
+BUILD=20251213
+CHECKSUM=0xDEADBEEF
+MAGIC=0x534E4F57
+
