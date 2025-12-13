@@ -217,10 +217,10 @@ Please open an issue first to discuss proposed changes.
 
 ## 📧 Support
 
-- **Website**: [ambrosinus.altervista.org](https://ambrosinus.altervista.org)
+- **Website**: [lucianoambrosini.it](https://ambrosinus.altervista.org)
 - **Shop**: [etsy.com/shop/TheArchitectLAB](https://www.etsy.com/shop/TheArchitectLAB)
 - **Email**: Contact via website
-- **Social**: [@AmbrosinusDEV](https://twitter.com/AmbrosinusDEV)
+- **Social**: [@lucianoambrosini](https://www.instagram.com/lucianoambrosini/)
 
 For PRO version inquiries and commercial licensing, please contact through the website.
 
