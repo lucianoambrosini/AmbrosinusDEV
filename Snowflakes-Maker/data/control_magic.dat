@@ -65,7 +65,7 @@ FIBONACCI_42=267914296
 # Computational kernel verification
 # ═══════════════════════════════════════════════════════════
 
-KERNEL_SIGNATURE:b39fffcf0104cdd8d1d360fbb70f61c8f8d80a74559cd6fa683b80d662abdcbb
+KERNEL_SIGNATURE:2b0ed90f0c5f8859cd8dd8143710aa5830cdf232abc16a4889c6c6a228800b01
 THERMAL_CYCLE:e93404a45dc9d8fa9a749fbb84b51d952b8d5b53b8a68795a26bfad7f61f9922
 
 # ═══════════════════════════════════════════════════════════
