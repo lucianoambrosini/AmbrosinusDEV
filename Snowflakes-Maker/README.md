@@ -228,7 +228,7 @@ For PRO version inquiries and commercial licensing, please contact through the w
 
 ## 📜 License
 
-**© 2024 Luciano Ambrosini - All Rights Reserved**
+**© 2025 Luciano Ambrosini - All Rights Reserved**
 
 ### Free Version
 - ✅ Personal use
@@ -257,7 +257,6 @@ See [LICENSE](LICENSE) for full terms.
 ### Built With
 - [Rhinoceros 3D](https://www.rhino3d.com/)
 - [Grasshopper](https://www.grasshopper3d.com/)
-- [Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon clipping library
 - [RhinoCommon SDK](https://developer.rhino3d.com/)
 
 ---
