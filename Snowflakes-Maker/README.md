@@ -3,12 +3,27 @@
 **Parametric snowflake generator for Grasshopper**
 
 Create mathematically unique, manufacturing-ready snowflake designs with infinite variations. Perfect for laser cutting, 3D printing, and computational design projects.
+This new component has been part of the Ambrosinus Toolkit family since version 1.3.4.
 
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 [![Grasshopper](https://img.shields.io/badge/Grasshopper-Compatible-brightgreen.svg)](https://www.grasshopper3d.com/)
 [![Rhino](https://img.shields.io/badge/Rhino-7%2B-blue.svg)](https://www.rhino3d.com/)
 
 ---
+
+<br>
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/12/snowflakes_maker_gen_4.jpg" width="70%" height="300%">
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/12/snowflakes_maker_genHunt_1.jpg" width="70%" height="300%">
+</div>
+
+<br>
 
 ## 🌟 Features
 
