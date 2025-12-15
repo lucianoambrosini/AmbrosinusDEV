@@ -43,6 +43,29 @@ not only Grasshopper! (or at least I will try 😉 )
 
 <br>
 <br>
+
+## Snowflakes Maker (Parametric Design Gamification)
+
+[![GitHub release](https://img.shields.io/badge/release-v3.1.0-blue)](https://github.com/lucianoambrosini/AmbrosinusDEV/edit/main/Snowflakes-Maker/) 
+[![GitHub release date](https://img.shields.io/badge/last%20release%20date-Dic_2025-green)](https://lucianoambrosini.short.gy/SnowflakeMaker) 
+[![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus) 
+[![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
+[![Food4Rhino](https://img.shields.io/badge/Download-v3.1.0-black)](https://www.food4rhino.com/en/app/ambrosinus-toolkit)
+
+<br>
+
+**3)** **[Snowflakes Maker FREE](https://github.com/lucianoambrosini/AmbrosinusDEV/edit/main/Snowflakes-Maker/)** Create mathematically unique, manufacturing-ready snowflake designs with infinite variations. Perfect for laser cutting, 3D printing, and computational design projects.
+<br>
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/12/snowflakes_maker_gen_3.jpg" width="70%" height="300%">
+</div>
+
+<br>
+<br>
+
+<br>
+<br>
 <br>
 
 <div align="center">
