@@ -54,7 +54,7 @@ not only Grasshopper! (or at least I will try 😉 )
 
 <br>
 
-**3)** **[Snowflakes Maker FREE](https://github.com/lucianoambrosini/AmbrosinusDEV/edit/main/Snowflakes-Maker/)** Create mathematically unique, manufacturing-ready snowflake designs with infinite variations. Perfect for laser cutting, 3D printing, and computational design projects.
+**3)** **[Snowflakes Maker FREE](https://github.com/lucianoambrosini/AmbrosinusDEV/edit/main/Snowflakes-Maker/)** Create mathematically unique, manufacturing-ready snowflake designs with infinite variations. Perfect for laser cutting, 3D printing, and computational design projects. *Beyond the code lies the Frost Magic Circle — a community of frost sprites, ice artisans and aurora guardians united by the love of generative design and winter wonder. Right-click the component to discover the hidden portal... will you answer Jack Frost's call?* ❄️✨
 <br>
 
 <div align="center">
