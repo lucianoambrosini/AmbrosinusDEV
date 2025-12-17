@@ -281,13 +281,6 @@ Special thanks to:
 **Last Updated**: December 2025  
 **Status**: Active Development  
 
-### Roadmap
-- [ ] Additional export formats
-- [ ] Advanced symmetry patterns
-- [ ] Material presets library
-- [ ] Cloud rendering service
-- [ ] Mobile app companion
-
 ---
 
 ## ⭐ Star This Repository
