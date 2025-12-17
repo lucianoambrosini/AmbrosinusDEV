@@ -3,7 +3,7 @@
 **Parametric snowflake generator for Grasshopper**
 
 Create mathematically unique, manufacturing-ready snowflake designs with infinite variations. Perfect for laser cutting, 3D printing, and computational design projects.
-This new component has been part of the Ambrosinus Toolkit family since version 1.3.4.
+This new component has been part of the Ambrosinus Toolkit family since version 1.3.4. It includes a gamification approach elaborated by the author, see "Important note".
 
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 [![Grasshopper](https://img.shields.io/badge/Grasshopper-Compatible-brightgreen.svg)](https://www.grasshopper3d.com/)
