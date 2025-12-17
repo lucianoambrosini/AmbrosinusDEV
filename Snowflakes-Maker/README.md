@@ -192,8 +192,6 @@ Full documentation available at: [ambrosinus.altervista.org](https://ambrosinus.
 - Based on dendritic crystal growth patterns
 - Implements N-fold radial symmetry
 - Parametric branch distribution systems
-- Clipper2 library for offset operations
-- Collision-free geometry generation
 
 ### Performance
 - Typical generation time: 150-200ms
@@ -203,14 +201,14 @@ Full documentation available at: [ambrosinus.altervista.org](https://ambrosinus.
 
 ### File Formats
 - Native: Grasshopper definition (.gh)
-- Export: DXF, DWG, STL, 3DM, PDF
+- Export from Rhino: DXF, DWG, STL, 3DM, PDF
 - DNA Code: Encrypted text string
 
 ---
 
 ## 🤝 Contributing
 
-This is a commercial project with a free tier. Contributions are welcome for:
+This is a commercial idea project with a free tier. Contributions are welcome for:
 - Bug reports and fixes
 - Documentation improvements
 - Example definitions
