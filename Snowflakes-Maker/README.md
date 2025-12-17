@@ -59,7 +59,7 @@ This new component has been part of the Ambrosinus Toolkit family since version 
 - Commercial license
 - Priority support
 
-[Contact for PRO version →](https://ambrosinus.altervista.org)
+[Contact for PRO version →](https://lucianoambrosini.short.gy/SnowflakeMaker)
 
 ---
 
