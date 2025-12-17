@@ -9,6 +9,11 @@ This new component has been part of the Ambrosinus Toolkit family since version 
 [![Grasshopper](https://img.shields.io/badge/Grasshopper-Compatible-brightgreen.svg)](https://www.grasshopper3d.com/)
 [![Rhino](https://img.shields.io/badge/Rhino-7%2B-blue.svg)](https://www.rhino3d.com/)
 
+<br>
+
+> [!IMPORTANT]
+> ❄️ Are you ready to answer Jack Frost's call? Begin your journey into the Circle here → [FMC Path...](https://lucianoambrosini.short.gy/SupportSnowflakesMakerGuide) ❄️
+
 ---
 
 <br>
