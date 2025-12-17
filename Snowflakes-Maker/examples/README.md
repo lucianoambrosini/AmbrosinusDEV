@@ -1,4 +1,4 @@
-# 📁 Example Definitions
+# 📁 Example Definitions (WIP)
 
 This folder contains example Grasshopper definitions demonstrating various uses of Snowflakes Maker.
 
