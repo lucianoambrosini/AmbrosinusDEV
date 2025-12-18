@@ -1,5 +1,5 @@
 # ═══════════════════════════════════════════════════════════
-# SNOWFLAKES MAKER - MAGIC CONTROL DATA v2.1
+# SNOWFLAKES MAKER - MAGIC CONTROL DATA v2.2
 # ═══════════════════════════════════════════════════════════
 # This file contains various configuration parameters for the
 # Snowflakes generation algorithm. Modifying these values may
@@ -73,7 +73,7 @@ LATTICE_HARMONICS:8d4575da2087734dcb62a04b497851ce8ca085c8576934d4ada70e3bcb385c
 # Algorithm metadata
 # ═══════════════════════════════════════════════════════════
 
-VERSION=3.1.1
+VERSION=3.2.0
 BUILD=20251218
 CHECKSUM=0xDEADBEEF
 MAGIC=0x534E4F57
