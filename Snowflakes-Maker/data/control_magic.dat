@@ -1,5 +1,5 @@
 # ═══════════════════════════════════════════════════════════
-# SNOWFLAKES MAKER - MAGIC CONTROL DATA
+# SNOWFLAKES MAKER - MAGIC CONTROL DATA v2.1
 # ═══════════════════════════════════════════════════════════
 # This file contains various configuration parameters for the
 # Snowflakes generation algorithm. Modifying these values may
@@ -67,13 +67,13 @@ FIBONACCI_42=267914296
 
 KERNEL_SIGNATURE:2b0ed90f0c5f8859cd8dd8143710aa5830cdf232abc16a4889c6c6a228800b01
 THERMAL_CYCLE:e93404a45dc9d8fa9a749fbb84b51d952b8d5b53b8a68795a26bfad7f61f9922
+LATTICE_HARMONICS:8d4575da2087734dcb62a04b497851ce8ca085c8576934d4ada70e3bcb385c94
 
 # ═══════════════════════════════════════════════════════════
 # Algorithm metadata
 # ═══════════════════════════════════════════════════════════
 
-VERSION=3.0.0
-BUILD=20251213
+VERSION=3.1.1
+BUILD=20251218
 CHECKSUM=0xDEADBEEF
 MAGIC=0x534E4F57
-
